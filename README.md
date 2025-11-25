@@ -1,4 +1,4 @@
-------*Documentação do Sistema: Jogo da Velha com CRUD*------
+------*Jogo da Velha com CRUD*------
 
 
 ------*Sobre o Sistema*------
